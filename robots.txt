@@ -1,1 +1,1 @@
-Sitemap: https://Hato1.github.io/Saturnalia-guidebook/sitemap.xml
+Sitemap: https://github.com/Hato1/Saturnalia-guidebook/sitemap.xml
