@@ -1,0 +1,20 @@
+project:
+  type: website
+
+website:
+  title: "Saturnalia guide"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+      - town_quest.qmd
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+execute:
+  freeze: auto
