@@ -4,15 +4,17 @@ project:
 website:
   title: "Saturnalia guide"
   navbar:
+    pinned: true
     left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+      - href: clues.qmd
+        text: Clues
       - town_quest.qmd
+      - href: anita.qmd
+        text: Anita
 
 format:
   html:
-    theme: cosmo
+    theme: [cosmo, borderless.scss]
     css: styles.css
     toc: true
 

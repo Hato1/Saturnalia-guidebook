@@ -1,0 +1,82 @@
+---
+format: 
+  html:
+    page-layout: custom
+    css: styles_noscroll.css
+execute:
+  echo: false
+---
+```{python}
+from ipyleaflet import (
+    Map,
+    Marker,
+    basemaps,
+    basemap_to_tiles,
+    projections,
+    ImageOverlay,
+    Icon,
+    CircleMarker,
+    Circle,
+    FullScreenControl,
+)
+import ipywidgets as widgets
+
+m = Map(
+  crs=projections.Simple,
+  center=(14*10/2, 11*10/2),
+  zoom=2,
+  min_zoom=-5,
+  attribution_control=False,
+  scroll_wheel_zoom=True,
+  zoom_snap=0.5,
+)
+m.clear_layers()
+scale = 51.5/10
+bounds = ((8/scale, 25/scale), (809/scale, 608/scale)[::-1])
+image = ImageOverlay(
+    url="map.jpg",
+    bounds=bounds
+)
+
+
+# m.layout.height = "80%"
+m.fit_bounds(bounds)
+
+# m.layout.height = QUARTO_FIG_HEIGHT
+control = FullScreenControl()
+m.add_control(control)
+
+m.add_layer(image)
+
+icon = Icon(
+    icon_url='circle.png',
+    icon_size=[38, 95],
+    icon_anchor=[22, 94]
+    )
+
+
+WIDTH = 14
+HEIGHT = 11
+for i in range(WIDTH):
+    for j in range(HEIGHT):
+        tooltip = widgets.HTML(
+            value=f"Row: {HEIGHT-j-1}, Col {i}",
+            # placeholder='Some HTML',
+            description='Some HTML',
+        )
+        location = ((j+1)*10, (i+1)*10)
+        # m.add_layer(Marker(icon=icon, location=(j+1, i+1)))
+        circle_marker = Circle(location=location, radius=5)  # radius=int((20*6)/m.zoom))
+        circle_marker.color = "transparent"
+        circle_marker.fill_color = "transparent"
+        circle_marker.title = f"{i}, {j}"
+        circle_marker.popup = tooltip  # "The birthplace of R"
+
+        m.add_layer(circle_marker)
+
+# m.layout.width = "100%"
+# m.layout.height = "100vh"
+# m.layout.minheight = "100vh"
+m.layout.height = "calc(100vh - 70px)"
+m
+```

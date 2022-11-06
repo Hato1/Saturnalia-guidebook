@@ -1,5 +1,8 @@
 ---
 title: "Town Quest"
+# format: 
+#   html:
+#     page-layout: custom
 ---
 
-U gotta kill the beest
+["hello"](map.jpg)
