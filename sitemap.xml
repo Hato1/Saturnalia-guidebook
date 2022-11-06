@@ -2,14 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://github.com/Hato1/Saturnalia-guidebook/index.html</loc>
-    <lastmod>2022-11-05T00:49:20.440Z</lastmod>
+    <lastmod>2022-11-06T12:37:27.553Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/Hato1/Saturnalia-guidebook/about.html</loc>
-    <lastmod>2022-11-05T00:49:21.076Z</lastmod>
+    <loc>https://github.com/Hato1/Saturnalia-guidebook/anita.html</loc>
+    <lastmod>2022-11-06T12:37:28.433Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/Hato1/Saturnalia-guidebook/clues.html</loc>
+    <lastmod>2022-11-06T12:37:28.877Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/Hato1/Saturnalia-guidebook/town_quest.html</loc>
-    <lastmod>2022-11-05T00:49:21.400Z</lastmod>
+    <lastmod>2022-11-06T12:37:29.173Z</lastmod>
   </url>
 </urlset>
