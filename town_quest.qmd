@@ -4,13 +4,3 @@ title: "Town Quest"
 #   html:
 #     page-layout: custom
 ---
-
-["hello"](map.jpg)
-["hello"](map2.png)
-["hello"](eastseadokdo/EastSeaDokdo-Regular.ttf)
-
-["hello"](pfp/Anita.jpg)
-["hello"](pfp/Claudia.jpg)
-["hello"](pfp/Paul.jpg)
-["hello"](pfp/Sergio.jpg)
-["hello"](pfp/Tecla.jpg)

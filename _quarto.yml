@@ -1,5 +1,6 @@
 project:
   type: website
+  resources: [images, www]
 
 website:
   title: "Saturnalia guide"
