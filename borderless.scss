@@ -86,13 +86,12 @@ position: relative;
 font-size: 12px;
 text-align: center;
 line-height: 1em;
-// position: relative;
 }
 
 
 @font-face {
   font-family: 'EastSeaDokdo';
-  src: URL('www/EastSeaDokdo-Regular.ttf') format('truetype');
+  src: URL('images/EastSeaDokdo-Regular.ttf') format('truetype');
 }
 
 @-webkit-keyframes gradientBG {

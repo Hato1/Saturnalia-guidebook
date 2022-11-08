@@ -2,3 +2,8 @@
 body {
   overflow: hidden; /* Hide scrollbars */
 }
+
+@font-face {
+  font-family: 'EastSeaDokdo';
+  src: URL('images/EastSeaDokdo-Regular.ttf') format('truetype');
+}
