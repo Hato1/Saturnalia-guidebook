@@ -60,7 +60,7 @@ with open("clues.txt") as f:
         if quoter[-1] == ":":
             quoter = quoter[:-1]
             quote = open("message_box.html").read()
-            quote = quote.replace("PICTURE_HERE", f"/images/{quoter}.jpg")
+            quote = quote.replace("PICTURE_HERE", f"images/{quoter}.jpg")
             quote = quote.replace("QUOTE_HERE", clue[-1].partition(": ")[2])
             clue[-1] = quote
         else:
