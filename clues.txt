@@ -5,12 +5,12 @@ Sergio: "According to local lore, this is how paramours snuck into the castle.."
 
 Castle Entrance
 The main gate closes automatically every night.
-Sergio: 'Bruno would always remind me to use the path around the village...
+Sergio: "Bruno would always remind me to use the path around the village..."
 
 
 Bruno's Office
 An office near the museum of Sardinian folklore.
-Sergio: 'Must have been locked up When the castle became a tourist attraction.
+Sergio: "Must have been locked up When the castle became a tourist attraction."
 
 
 Perpetual Calendar
@@ -45,7 +45,7 @@ Tecla: "Once I tried to warn the parents, they cut ties with me completely."
 
 Naloxone
 Inhibits the effects of opioids such as morphine.
-Sergio: 'That sure Woke me up. The headache unfortunately remains."
+Sergio: "That sure Woke me up. The headache unfortunately remains."
 
 
 Gravoi's Pharmacy
@@ -186,14 +186,13 @@ Claudia: "I made this for my aunt - and one for her boyfriend. Come on, I Was fo
 
 
 Mara's Diary
-Mara Mirai, age 16: "I dreamed about the Ammutadore again. He lies on my chest and steals my doll." Tecla:
-'Her parents didn't listen to her. Then the nightmares began...
+Mara Mirai, age 16: "I dreamed about the Ammutadore again. He lies on my chest and steals my doll." 
+Tecla: "Her parents didn't listen to her. Then the nightmares began..."
 
 
 Ammutadore Statue
 The monster from Sardinian folklore.
-Tecla: "The ammutadore..."
-It sits on your chest While you sleep.
+Tecla: "The ammutadore... It sits on your chest While you sleep."
 
 
 Mara's Suicide Letter
