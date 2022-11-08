@@ -2,7 +2,7 @@
 // Base document colors
 $content-padding-top: 0px;
 $spacer: 1rem;
-
+$navbar-hl: #ff0039;
 
 @import url('https://fonts.googleapis.com/css?family=Roboto|Sriracha&display=swap');
 $background: #fffffb;
@@ -61,6 +61,7 @@ $darkBackground: #5b5f97;
     color: white;
     font-size: 25px;
     margin-bottom: 0px;
+    margin-right: 5px;
     margin-left: 35px;
     line-height: 1em;
     position: absolute;
@@ -88,11 +89,6 @@ text-align: center;
 line-height: 1em;
 }
 
-
-@font-face {
-  font-family: 'EastSeaDokdo';
-  src: URL('images/EastSeaDokdo-Regular.ttf') format('truetype');
-}
 
 @-webkit-keyframes gradientBG {
   0% {

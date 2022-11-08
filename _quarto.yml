@@ -6,10 +6,14 @@ website:
   title: "Saturnalia guide"
   navbar:
     pinned: true
+    background: "#130307"
+    foreground: light
+    highlight: "#2d141a"
     left:
       - href: clues.qmd
         text: Clues
-      - contribute.qmd
+      - href: contribute.qmd
+        text: Contribute
       # - town_quest.qmd
       # - href: anita.qmd
       #   text: Anita
