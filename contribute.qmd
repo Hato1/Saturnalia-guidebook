@@ -3,16 +3,16 @@ title: "Contribute"
 format: html
 ---
 
-Want to help improve this guide? I'd greatly appreciate it. You can submit issues & PR's on GitHub.
+Want to help improve this guide? I'd greatly appreciate it. You can submit issues & PR's on [GitHub](https://github.com/Hato1/Saturnalia-guidebook).
 
-If you're not familiar with GitHub, feel free to email me or DM me in Discord.
+If you're not familiar with GitHub, feel free to <a href = "mailto: jacob.p.r@hotmail.com">email</a> me or DM me from the official Discord.
 
 
-For inspiration, here's some changes I'd like to make:
+For inspiration, here's what needs doing"
 <ul>
-  <li>Spellcheck all clues</li>
-  <li>Add locations for all clues</li>
-  <li>Show pre-requisites for clues, for example 'must be playing as Claudia'</li>
+  <li>Fix mistakes in clue descriptions</li>
+  <li>Add game locations for all clues</li>
+  <li>Add pre-requisites for clues, for example 'must be playing as Claudia'</li>
   <li>Add images for all clues</li>
   <li>Add quest guides for the playable characters + tecla + town quest</li>
   <li>Endgame scoreboard rules</li>
