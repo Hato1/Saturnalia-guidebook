@@ -10,13 +10,15 @@ If you're not familiar with GitHub, feel free to <a href = "mailto: jacob.p.r@ho
 
 For inspiration, here's what needs doing"
 <ul>
-  <li>Fix mistakes in clue descriptions</li>
-  <li>Add game locations for all clues</li>
-  <li>Add pre-requisites for clues, for example 'must be playing as Claudia'</li>
+  <li>Fill in the last 4 missing clues</li>
+  <li>Fix mistakes in [clue descriptions](https://github.com/Hato1/Saturnalia-guidebook/blob/master/clues.txt)</li>
+  <li>Create a list of locations for all clues</li>
+  <li>Note pre-requisites for clues, for example 'must be playing as Claudia'</li>
   <li>Add images for all clues</li>
   <li>Add quest guides for the playable characters + tecla + town quest</li>
   <li>Endgame scoreboard rules</li>
   <li>Achievement guides</li>
   <li>Quest guides, for spoiler free hints at what to do next</li>
   <li>Characters page, listing lore and character abilities</li>
+  <li>Code cleanup. This is my first time using HTML, CSS, SCSS, Quarto and Leaflet. I know my code is full of bad practice.</li>
 </ul>
