@@ -1,6 +1,6 @@
 Castle Tourist Sign 
 An alternate entry to the castle through the bar.
-Sergio: According to local lore, this is how paramours snuck into the castle..
+Sergio: "According to local lore, this is how paramours snuck into the castle.."
 
 
 Castle Entrance
@@ -15,7 +15,7 @@ Sergio: 'Must have been locked up When the castle became a tourist attraction.
 
 Perpetual Calendar
 Set to December 21st, 1959.
-Sergio: "Very cumbersome. Bruno Kept it on his desk.
+Sergio: "Very cumbersome. Bruno Kept it on his desk."
 
 
 Umberto's Letter 
@@ -45,7 +45,7 @@ Tecla: "Once I tried to warn the parents, they cut ties with me completely."
 
 Naloxone
 Inhibits the effects of opioids such as morphine.
-Sergio: 'That sure Woke me up. The headache unfortunately remains.'
+Sergio: 'That sure Woke me up. The headache unfortunately remains."
 
 
 Gravoi's Pharmacy
@@ -58,25 +58,24 @@ Her grades declined sharply in 1964.
 Claudia: "She was such a good student, Something definitely happened."
 
 
-Gravoi School Primary school for children up to age fifteen.
-Claudia: "Proudly training future generations of bigots. Glad to be done with it.'
+Gravoi School
+Primary school for children up to age fifteen.
+Claudia: "Proudly training future generations of bigots. Glad to be done with it."
 
 
 Slide Projector
 Displays documents archived in small slides.
-Claudia "So technologically advanced. Maybe we'll get a Whole computer some day!"
+Claudia: "So technologically advanced. Maybe we'll get a Whole computer some day!"
 
 
 The Castle Yard
 Built around a well dating to roughly 3000 B.C.
-Claudia: "Loved playing here as a kid...
-The ancient well is So Weirdly mysterious.
+Claudia: "Loved playing here as a kid... The ancient well is So Weirdly mysterious."
 
 
 Romeo and Juliet
 An Italian translation of Shakespeare's play.
-Paul: 'Old bill's idea of Italy Was odd. But, uh...
-reality does surpass it.'
+Paul: "Old bill's idea of Italy Was odd. But, uh... reality does surpass it."
 
 
 Castle Library
@@ -86,7 +85,7 @@ Sergio: "This is where Bruno and I fell in love."
 
 Castle's Secret Chamber
 Bruno's compatriots met here to end the ritual.
-Sergio: 'It's hidden behind the bas-relief in the library!"
+Sergio: "It's hidden behind the bas-relief in the library!"
 
 
 Mouth of Truth
@@ -100,8 +99,7 @@ Sergio: "Maybe his wife had him declared dead in absentia, So she could inherit.
 
 Umberto's House
 Sergio used to live here with his father.
-Sergio: "I..couldn't let him die Sergio:
-alone. I had to come back.
+Sergio: "I..couldn't let him die alone. I had to come back."
 
 
 Threatening Graffiti
@@ -116,22 +114,22 @@ Paul: "This guy. Such a sadistic way to have fun."
 
 Claudia's House
 Home of Gabriele and his daughter Claudia.
-Claudia: 'When my aunt got married, I inherited her room.'
+Claudia: "When my aunt got married, I inherited her room."
 
 
 Psychology Essay
 "Deep in the Unconscious," by Dr. E. Zacchi: "Repressed traumas are sometimes revisited in dreams."
-Anita: "Some nightmares have their origins in waking life. Maybe most of them.
+Anita: "Some nightmares have their origins in waking life. Maybe most of them."
 
 
 La Principessa Bar
 Gabriele Mirai's bar and restaurant in Gravoi.
-Claudia: "My father wants me to Work there, I Want to throw up.
+Claudia: "My father wants me to Work there, I Want to throw up."
 
 
 Marriage Invite
 A public invitation to Mara Mirai's wedding.
-Claudia: 'The party was at her husband's house, near the pharmacy.
+Claudia: "The party was at her husband's house, near the pharmacy."
 
 
 MISSING
@@ -140,12 +138,12 @@ But who was phone?
 
 Well Drainage Valve
 A hydraulic system to drain the well's chamber.
-Sergio: 'I think... this Nuragic-era well might be connected to the castle dungeon?"
+Sergio: "I think... this Nuragic-era well might be connected to the castle dungeon?"
 
 
 Accabadora's Hammer
 A traditional tool to end suffering of the sick.
-Tecla: "Eliana had the most thankless job. Ostracized and harrassed.
+Tecla: "Eliana had the most thankless job. Ostracized and harrassed."
 
 
 Medical Crutch
@@ -164,28 +162,27 @@ Sergio: "Fascinating and surreal that Bruno's family owned this whole castle."
 
 University Brochure
 Literature about an expensive private university in Manchester.
-Sergio "My alma mater-Bruno chose it and paid in advance. I didn't want to go.
+Sergio: "My alma mater-Bruno chose it and paid in advance. I didn't want to go."
 
 
 Morphine Prescription
 Palliative treatment for Sergio's father's silicosis.
-Sergio: He has to stay in the iron lung most days, So I pick up his medicine.
+Sergio: "He has to stay in the iron lung most days, So I pick up his medicine."
 
 
 Elegant Coat
 Elegant tartan coat embroidered with "Your Bruno."
-Sergio: A parting gift from Bruno, It's identical to the one he always Wore.
+Sergio: "A parting gift from Bruno, It's identical to the one he always Wore."
 
 
 Coin Changer
 Will sound an alarm if tampered with.
-Claudia: 'I've broken it open before using a small Wrench.'
+Claudia: "I've broken it open before using a small Wrench."
 
 
 Pasta Necklace
 A handicraft made by schoolchildren as a gift.
-Claudia: I made this for my aunt - and one for her boyfriend.
-Come on, I Was four!"
+Claudia: "I made this for my aunt - and one for her boyfriend. Come on, I Was four!"
 
 
 Mara's Diary
@@ -195,74 +192,73 @@ Mara Mirai, age 16: "I dreamed about the Ammutadore again. He lies on my chest a
 
 Ammutadore Statue
 The monster from Sardinian folklore.
-Tecla: 'The ammutadore...
+Tecla: "The ammutadore..."
 It sits on your chest While you sleep.
 
 
 Mara's Suicide Letter
 "Dad, you know why: your son's voice, his hands, his terrible eyes. prefer to close mine forever."
-Claudia: I Knew it! That disgusting pig... Piece of shit, I'll never forgive you.
+Claudia: "I Knew it! That disgusting pig... Piece of shit, I'll never forgive you."
 
 
 Hunter's House
 Full of stuffed animals. Abandoned and vandalized.
-Claudia: 'It's right by the pharmacy. Creepy place, but some fond memories too.
+Claudia: "It's right by the pharmacy. Creepy place, but some fond memories too."
 
 
 Rental Notice
 An ad for the rooms being rented in the villa. Includes Tecla's phone number and photo.
-Tecla: "I had the villa renovated in 1960. It had been abandoned since 1929.
+Tecla: "I had the villa renovated in 1960. It had been abandoned since 1929."
 
 
 Hidden Room
 Nature has reclaimed this sealed-off room.
-Tecla: "Eliana's room. She Was an accabadora... She ended people's suffering.
+Tecla: "Eliana's room. She Was an accabadora... She ended people's suffering."
 
 
 Eliana's Drawing
 A handsome man sleeping. The caption reads: "R.C. When will you wake up?' 
-Tecla: "You can tell how infatuated she Was...
+Tecla: "You can tell how infatuated she Was..."
 
 
 Escape Plan
 Pilot Rupert Crawley's 1929 flight book...with plans to escape through a hole in the floor?
-Tecla:'He Was afraid. We didn't speak his language, nor he ours.
+Tecla: "He Was afraid. We didn't speak his language, nor he ours."
 
 
 Morphine Bottle
 In liquid form for ingestion. Half empty.
-Sergio: 'I'm not proud of using this stuff to relax, but... life's hard. Sue me.
+Sergio: "I'm not proud of using this stuff to relax, but... life's hard. Sue me."
 
 
 Satellite Phone
 Can be used anywhere it receives a signal.
-Sergio: 'It needs signal to work-a bigger limitation than the salesman implied.
+Sergio: "It needs signal to work-a bigger limitation than the salesman implied."
 
 
 Umberto Aulas
 Sergio's father. One of the old miners of Gravoi.
-Sergio: He loves me, in his own Way. But I can never truly forgive him.
+Sergio: "He loves me, in his own Way. But I can never truly forgive him."
 
 
 Airfare Bill
 Receipt for a a one-way flight to Manchester.
-Sergio:
-"Decades ago, When we got caught, Bruno paid for me to leave, For good."
+Sergio: "Decades ago, When we got caught, Bruno paid for me to leave, For good."
 
 
 Gabriele Mirai
 Bar owner. Claudia's father and Mara's brother.
-Claudia: I hate his guts. Of course Mom left him. Wish she'd taken me.
+Claudia: "I hate his guts. Of course Mom left him. Wish she'd taken me."
 
 
 Ritual Mask
 Eyeless mask used during the celebrations.
-Claudia: "The idea is you Wear it to avoid looking at Saint Lucia, Gimme a break.
+Claudia: "The idea is you Wear it to avoid looking at Saint Lucia, Gimme a break."
 
 
 Tourist Pamphlet
 Guides to Sardinian attractions, including the sea town of Carlo Forte.
-Claudia: "Mara and her boyfriend brought me along in 1978, When they got engaged.
+Claudia: "Mara and her boyfriend brought me along in 1978, When they got engaged."
 
 
 MISSING
@@ -276,7 +272,7 @@ Tecla: "Her poor husband... They wouldn't even let him grieve,
 
 Broken Chain
 From a traditional Sardinian wedding dress.
-Claudia: "My aunt used the chain from her own dress to... to...
+Claudia: "My aunt used the chain from her own dress to... to..."
 
 
 The Villa
@@ -287,7 +283,7 @@ I moved in here a year ago to research the mines' exploitability."
 
 Murgia's Sisters
 Eliana and Tecla Murgia, photographed in 1929.
-Tecla: "Eliana would have done anything to provide for us. It Wasn't easy.
+Tecla: "Eliana would have done anything to provide for us. It Wasn't easy."
 
 
 Revolver Holster
@@ -302,37 +298,37 @@ Tecla: "Villagers wanted to hide any trace of the crash. Hiding is What we do."
 
 Broken Propeller
 From a 1920s RAF fighter, marked "Rupert Crowley."
-Tecla: "Eliana Was supposed to "take care" of Rupert, the surviving pilot.
+Tecla: "Eliana Was supposed to "take care" of Rupert, the surviving pilot."
 
 
 Rupert Crowley
 An RAF reconnaissance pilot in the 1920s.
-Tecla: "My sister was supposed to yet rid of him, not to fall in love.'
+Tecla: "My sister was supposed to yet rid of him, not to fall in love."
 
 
 Sergio Aulas
 Returned from the UK to care for his dying father.
-Paul: 'We're good friends. He crashes at the villa all the time.
+Paul: "We're good friends. He crashes at the villa all the time."
 
 
 Bruno Bissani
 Bruno Bissani. Lord of Gravoi's castle.
-Sergio: "What he meant to me... but I Was too young. Shouldn't have been with him.
+Sergio: "What he meant to me... but I Was too young. Shouldn't have been with him."
 
 
 Claudia Mirai
 Gabriel's daughter, fresh out of high school.
-Sergio: Obviously the coolest kid in this godforsaken village."
+Sergio: "Obviously the coolest kid in this godforsaken village."
 
 
 Mara Mirai
 Gabriele's sister and Claudia's aunt.
-Claudia: 'When I Was seven I found her by the olive tree in the Nuragic area...
+Claudia: "When I Was seven I found her by the olive tree in the Nuragic area..."
 
 
 Mirai's Family Photo
 Mara's family at her Catholic confirmation.
-Tecla: "Her brother Gabriele has always been a creep.
+Tecla: "Her brother Gabriele has always been a creep."
 
 
 Mara's Doll
@@ -342,17 +338,17 @@ Anita: "Mara's doll. Stolen by the ammutadore?"
 
 Ancient Tree
 An olive tree said to be thousands of years old.
-Claudia: "My aunt hanged herself from this cursed tree.
+Claudia: "My aunt hanged herself from this cursed tree."
 
 
 Brass Bell
 Very small, but very loud. A local staple.
-Sergio: Ringing this will attract that creature. No question."
+Sergio: "Ringing this will attract that creature. No question."
 
 
 Villa Basement
 Locked off by the owner.
-Claudia: 'Strange... If you look at the villa from the outside... Maybe I'm crazy...?"
+Claudia: "Strange... If you look at the villa from the outside... Maybe I'm crazy...?"
 
 
 Ceiling Hole
@@ -382,8 +378,7 @@ Anita: "I always Wondered What's behind that door!"
 
 Tecla Murgia
 Owner of the villa. Landlord to Anita and Paul.
-Anita: "Typical village old lady - full of secrets. Rent is
-cheap, though."
+Anita: "Typical village old lady - full of secrets. Rent is cheap, though."
 
 
 Don't let the user see this
@@ -392,12 +387,12 @@ F*ck!
 
 Leone
 Worked the mines; tried to unionize his comrades.
-Paul: 'Did he turn into... that creature? It's horrible."
+Paul: "Did he turn into... that creature? It's horrible."
 
 
 Threatening Letters
 "Go back to Africa!" "We don't need your commie advice." "Keep an eye on your family..."
-Tecla: "Written in Sardininan, Definitely someone from the village.
+Tecla: "Written in Sardininan, Definitely someone from the village."
 
 
 Protest Poster
@@ -413,7 +408,7 @@ something else now."
 
 Bell Tower
 Operated by the church's sacristan, Damiano Orsi.
-Anita: His quarters are under the tower. That's Where we, well...
+Anita: "His quarters are under the tower. That's Where we, well..."
 
 
 MISSING
@@ -427,18 +422,17 @@ Tecla: "You can see the plane that pig Wanted to find from the castle's wall."
 
 Castle Planimetry
 Detailed diagram of the top floor of Gravoi's castle.
-Sergio: "This "F" room is unlabeled.
-It's located behind the bas-relief panel..."
+Sergio: "This "F" room is unlabeled. It's located behind the bas-relief panel..."
 
 
 Nurse Photo
 Tecla in her World War II military nurse attire.
-Tecla: "No one Wanted to help me find my sister who disappeared, So I left.
+Tecla: "No one Wanted to help me find my sister who disappeared, So I left."
 
 
 Broken Mask
 Eyeless, with the surname "Murgia" inscribed.
-Tecla: "The mask my sister Was Wearing When she disappeared sixty years ago.
+Tecla: "The mask my sister Was Wearing When she disappeared sixty years ago."
 
 
 Eliana's Pendant
@@ -448,27 +442,27 @@ Tecla: "When the curse was passed on, she became... nourishment? I'm So stupid!"
 
 Eliana Murgia
 Tecla's sister, long since vanished.
-Tecla: "Eliana took care of me after our parents died in the dam collapse.
+Tecla: "Eliana took care of me after our parents died in the dam collapse."
 
 
 Paul Izem
 Photojournalist in search of his birth parents.
-Anita: He said he's in town to do reporting for a travel magazine. Unlikely.
+Anita: "He said he's in town to do reporting for a travel magazine. Unlikely."
 
 
 Idir Izem
 Paul's father. All trace disappeared 30 years ago.
-Paul: 'I don't Know why, but... I could never believe he abandoned
+Paul: "I don't Know why, but... I could never believe he abandoned me."
 
 
 Anita Giannini
 A geologist assaying viability of Gravoi's mines.
-Paul: "Smart, kind, and patient. Dunno why she gives Damiano the time of day.
+Paul: "Smart, kind, and patient. Dunno why she gives Damiano the time of day."
 
 
 Damiano Orsi
 The sacristan of the church-and Anita's paramour.
-Anita: "I love him. He's married, and he doesn't want this Kid, but I do.
+Anita: "I love him. He's married, and he doesn't want this Kid, but I do."
 
 
 Damiano's Drawing
@@ -478,12 +472,12 @@ Anita: "Could my Damiano have drawn this as a kid?"
 
 The Church
 Built in the Middle Ages. Heavily damaged in 1927.
-Anita: 'I'm usually not a practicing Catholic, but for Damiano...
+Anita: "I'm usually not a practicing Catholic, but for Damiano..."
 
 
 Church's Scaffolding
 The stairs are locked and outfitted with an alarm.
-Tecla: "The church was damaged and the crypt flooded in the old dam collapse.
+Tecla: "The church was damaged and the crypt flooded in the old dam collapse."
 
 
 Street Corner
@@ -493,7 +487,7 @@ Anita: "A plumber parked his Van here. I bet it's full of good tools."
 
 Dam Key
 A key to access the controls in the dam shed.
-Claudia "I think I might have stolen these as a prank once, But Who Knows?"
+Claudia: "I think I might have stolen these as a prank once, But Who Knows?"
 
 
 The Town Hall
@@ -503,7 +497,7 @@ Paul: "This Would be Where they'd keep records of my father's life in Gravoi!"
 
 St. Lucia Procession
 A statue of Saint Lucia is carried by the crowd.
-Paul: Ah -they built the altar from the platform that was carrying the statue!"
+Paul: "Ah -they built the altar from the platform that was carrying the statue!"
 
 
 Leone's Mine Badge
@@ -523,7 +517,7 @@ Paul: "I think it Saved me from that creature!"
 
 The Creature
 A creature emerging from the well above the mines.
-Paul: I think the camera flash Scared it away!"
+Paul: "I think the camera flash Scared it away!"
 
 
 Residency Permit
@@ -533,22 +527,22 @@ Paul: "That's my father! Finally, proof he was here in Gravoi!"
 
 Farida Izem
 Joined her spouse Idir Izem from Morocco in 1955.
-Paul: 'I never even had a picture of her growing up...
+Paul: "I never even had a picture of her growing up..."
 
 
 Mine Map & Compass
 Used by Anita to navigate Gravoi's mines.
-Paul: 'I was just borrowing those! I needed them for something."
+Paul: "I was just borrowing those! I needed them for something."
 
 
 Anita's Ultrasound
 Ultrasound of Anita and Damiano's son.
-Anita: "A boy! But Damiano wants What a me to get an abortion... What a hypocrite.
+Anita: "A boy! But Damiano wants What a me to get an abortion... What a hypocrite."
 
 
 Paul's Note
 I took your map to explore the mine while the others are busy with the festival. Sorry! Paul.
-Anita: "Those tunnels are map. He dangerous, even with a shouldn't be there.
+Anita: "Those tunnels are map. He dangerous, even with a shouldn't be there."
 
 
 Church Crypts
@@ -558,37 +552,37 @@ Claudia: "Full of skulls and skeletons. I love it! Closed now, though."
 
 Hardware Store
 Useful tools at affordable prices.
-Claudia: 'It's right in front of our place, How cool! The owner is a loony.
+Claudia: "It's right in front of our place, How cool! The owner is a loony."
 
 
 Tecla's House
 Situated near an overpass and a a votive shrine.
-Tecla: "I'll leave the light on. Tap on the window if you need me.
+Tecla: "I'll leave the light on. Tap on the window if you need me."
 
 
 Geological Risk Map
 The dam puts pressure on the mine walls.
-Anita: 'If there Were a structural failure here...the mine would flood instantly.
+Anita: "If there Were a structural failure here...the mine would flood instantly."
 
 
 St. Lucia's Shrine
 A statue of Christian martyr Saint Lucia.
-Paul: 'So revolutionary in her own time. So traditional in ours."
+Paul: "So revolutionary in her own time. So traditional in ours."
 
 
 Torn Well
 The mangled grate has torn a scrap from its owner.
-Paul: 'Bolt cutters would make quick work of this - that scrap would fall down.
+Paul: "Bolt cutters would make quick work of this - that scrap would fall down."
 
 
 Saturnalia Projection
 19th-century art depicting an ancient Roman ritual.
-Anita: Ancient Romans celebrated With sacrifices to the temple of Saturn.
+Anita: "Ancient Romans celebrated With sacrifices to the temple of Saturn."
 
 
 Berber Translation
 The Berber alphabet writing transliterates to "Izem," which means "lion." Or in Italian, "Leone"!
-Paul: 'So... They called my father Leone, as a translation of our Surname!"
+Paul: "So... They called my father Leone, as a translation of our Surname!"
 
 
 Gravoi Miners in 1956
@@ -612,22 +606,22 @@ Paul: "I think it's a Berber alphabet? I wish I knew it!"
 
 Police Report
 Report on a a fire that destroyed the bakery in 1957. Includes the bakery's phone number.
-Claudia: 'I wonder if the phone line still Works.'
+Claudia: "I wonder if the phone line still Works."
 
 
 Damiano's Research
 Detailed records of the rituals of Gravoi
-Anita: "I had no idea what this was all about, Until tonight..
+Anita: "I had no idea what this was all about, Until tonight.."
 
 
 Christian Magazine
 The latest issue of Sardegna Cristiana, December 1989.
-Tecla "They finally started the restorations after the old dam collapse,
+Tecla: "They finally started the restorations after the old dam collapse."
 
 
 Lover's Lane
 A path behind the bar leading to the castle.
-Sergio: "These is Where we used to to to see the sun rise. It... gave us hope.
+Sergio: "These is Where we used to to to see the sun rise. It... gave us hope."
 
 
 Anti-Flood System
@@ -637,7 +631,7 @@ Tecla: "When the old dam collapsed, those automatic Knife gates saved
 
 The Old Dam
 Gravoi's previous dam collapsed in 1927.
-Tecla: 'My father was the dam's guardian - he and my mother died saving the town."
+Tecla: "My father was the dam's guardian - he and my mother died saving the town."
 
 
 Antique Planetarium
@@ -652,12 +646,12 @@ Anita: "And... What looks like Vertical stretcher of some Kind."
 
 Ancient Rituals Book
 During an astral conjunction, a creature emerges from the underground tunnels beneath Gravoi.
-Paul: 'I Saw it! It came out of the well right above the mines!"
+Paul: "I Saw it! It came out of the well right above the mines!"
 
 
 Mine Infirmary
 Provided first aid to injured miners.
-Tecla: "When I came back I needed job, and this is what I Knew how to do.
+Tecla: "When I came back I needed job, and this is what I Knew how to do."
 
 
 Lockers Instructions
@@ -667,17 +661,17 @@ Anita: "I can't believe they haven't assigned me one yet!"
 
 Clue Board
 Cross-reference solstice dates and disappearances.
-Paul: 'My father, Tecla, and Bruno - they Were trying to make sense of it all...
+Paul: "My father, Tecla, and Bruno - they Were trying to make sense of it all..."
 
 
 Mine Union Graffiti
 Vandalized. Wishes death on someone named Leone.
-Paul: 'They truly hated him for.. What? Trying to yet a better contract?"
+Paul: "They truly hated him for.. What? Trying to yet a better contract?"
 
 
 Lost Keys Note
 From the guardian of the dam: "Keys lost! If found, bring to the lost and found in the Town Hall".
-Tecla! "The new dam Was built to substitute the old one, collapsed in 1927.
+Tecla: "The new dam Was built to substitute the old one, collapsed in 1927."
 
 
 Paul's Family
@@ -702,7 +696,7 @@ Anita: "There must be some useful stuff in there."
 
 System Safeguard
 Resets an anti-flood system and opens the sluices.
-Tecla: "This is what Bruno Was trying to do when we fought, When I shot him...
+Tecla: "This is what Bruno Was trying to do when we fought, When I shot him..."
 
 
 Mine Monorail Station
@@ -721,12 +715,12 @@ Anita: "Saint Lucia, the three animals... What do they mean?"
 
 Creature's Nest
 Corpses from various epochs adorn the stone altar.
-Claudiat "So this is, like...the creature's fridge. Like, Where it keeps its food?"
+Claudia: "So this is, like...the creature's fridge. Like, Where it keeps its food?"
 
 
 Miniature Mask
 A tiny wooden replica of the creature's mask.
-Claudia: 'Kind of scary and cute at the same time. I'd Wear it as a pin,
+Claudia: "Kind of scary and cute at the same time. I'd Wear it as a pin,
 
 
 Miners' Lockers
@@ -745,17 +739,17 @@ Anita: "A timed mechanism. No need to manually light the mines at night,"
 
 The Dam
 Built in the 1930s to power the village and mines.
-Anita: 'Is the dam bridge the only Way out of Gravoi?"
+Anita: "Is the dam bridge the only Way out of Gravoi?"
 
 
 Protest Posters
 A half-burnt box full of pro-union posters.
-Paul: 'Why were these in the bakery? Unless...'
+Paul: "Why were these in the bakery? Unless..."
 
 
 Burned Bakery
 Years ago, it was burned down and then condemned.
-Claudia: "This happened before I Was born, I heard someone died in the fire.
+Claudia: "This happened before I Was born, I heard someone died in the fire."
 
 
 Broken Phone
@@ -765,5 +759,4 @@ Claudia: "Is this What started the fire..? Can't believe they never got rid of i
 
 Mine Electrical Room
 Located under the castle. Under maintenance.
-Claudia 'I've seen operators bring some really cool tools in there.
-
+Claudia: "I've seen operators bring some really cool tools in there."

@@ -29,8 +29,9 @@ m = Map(
   attribution_control=False,
   scroll_wheel_zoom=True,
   zoom_snap=0.5,
+  zoom_delta=0.5,
+  layers=[],
 )
-m.clear_layers()
 bounds = ((0, 0), (1932, 1450)[::-1])
 image = ImageOverlay(
     url="map2.png",
@@ -50,7 +51,20 @@ with open("clues.txt") as f:
     for i, clue in enumerate(f.read().split("\n\n\n")):
         coord = f"{i % 14},{i // 14}"
         clue = clue.split("\n")
-        clue[0] = "<b>" + clue[0] + "</b>"
+        clue[0] = '<b><div class="clue-name">' + clue[0] + "</div></b>"
+
+        for i, c in enumerate(clue[1:-1]):
+            clue[i+1] = '<b><div class="clue-desc">' + clue[i+1] + "</div></b>"
+
+        quoter = clue[-1].split()[0]
+        if quoter[-1] == ":":
+            quoter = quoter[:-1]
+            quote = open("message_box.html").read()
+            quote = quote.replace("PICTURE_HERE", f"/pfp/{quoter}.jpg")
+            quote = quote.replace("QUOTE_HERE", clue[-1].partition(": ")[2])
+            clue[-1] = quote
+        else:
+            clue[-1] = '<b><div class="clue-desc">' + clue[-1] + "</div></b>"
 
         clues[coord] = "<br>".join(clue)
 
@@ -62,22 +76,18 @@ HEIGHT = 11
 for i in range(WIDTH):
     for j in range(HEIGHT):
         tooltip = widgets.HTML(
-            # value=f"Row: {HEIGHT-j-1}, Col {i}",
             value=clues[f"{i},{HEIGHT - j - 1}"],
             # placeholder='Some HTML',
             # description=clues[f"{i},{j}"],
         )
         location = j*distance+ypad, i*distance+xpad
-        circle_marker = Circle(location=location, radius=41)
-        circle_marker.color = "transparent"
-        circle_marker.fill_color = "transparent"
-        circle_marker.title = f"{i}, {j}"
-        circle_marker.popup = tooltip  # "The birthplace of R"
+        circle = Circle(location=location, radius=41)
+        circle.color = "transparent"
+        circle.fill_color = "transparent"
+        circle.popup = tooltip
+        m.add_layer(circle)
 
-        m.add_layer(circle_marker)
-
-# m.layout.height = "100vh"
-# m.layout.minheight = "100vh"
+# layout.minheight
 m.layout.height = "calc(100vh - 70px)"
 m
 ```
