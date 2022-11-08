@@ -31,8 +31,7 @@ m = Map(
   zoom_snap=0.5,
 )
 m.clear_layers()
-scale = 1 # 51.5/10
-bounds = ((0/scale, 0/scale), (1932/scale, 1450/scale)[::-1])
+bounds = ((0, 0), (1932, 1450)[::-1])
 image = ImageOverlay(
     url="map2.png",
     bounds=bounds
@@ -40,7 +39,6 @@ image = ImageOverlay(
 
 m.fit_bounds(bounds)
 
-# m.layout.height = QUARTO_FIG_HEIGHT
 control = FullScreenControl()
 m.add_control(control)
 
@@ -70,8 +68,7 @@ for i in range(WIDTH):
             # description=clues[f"{i},{j}"],
         )
         location = j*distance+ypad, i*distance+xpad
-        # m.add_layer(Marker(icon=icon, location=(j+1, i+1)))
-        circle_marker = Circle(location=location, radius=41)  # radius=int((20*6)/m.zoom))
+        circle_marker = Circle(location=location, radius=41)
         circle_marker.color = "transparent"
         circle_marker.fill_color = "transparent"
         circle_marker.title = f"{i}, {j}"
@@ -79,7 +76,6 @@ for i in range(WIDTH):
 
         m.add_layer(circle_marker)
 
-# m.layout.width = "100%"
 # m.layout.height = "100vh"
 # m.layout.minheight = "100vh"
 m.layout.height = "calc(100vh - 70px)"
