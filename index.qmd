@@ -3,4 +3,4 @@ title: "Saturnalia guide"
 format: html
 ---
 
-Hello
+Hello, welcome to a WIP Saturnalia (the video game) guide. Currently, the only feature is a clue map, you can navigate there using the top menu.

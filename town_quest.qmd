@@ -6,3 +6,4 @@ title: "Town Quest"
 ---
 
 ["hello"](map.jpg)
+["hello"](map2.png)

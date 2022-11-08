@@ -1,0 +1,59 @@
+Coin Token
+
+Currency for vending machines and public phones.
+
+Paul: "So much stuff in Gravoi uses these! It's basically a currency.
+
+
+
+Matchbox
+Used to create light or set fires.
+Anita: If I lose something, I strike a match and look around -it kind of Works!"
+
+
+PolyCart Ho prad
+POLYCART 746
+camera.
+PolyCart Film A film cartridge for Paul's instant Paul: "Expensive but widely available through Vending machines.
+
+
+
+
+Cobra-Cola
+
+be good for you,
+
+Recovers your stamina 100%. Drink when tired.
+Paul: "This can't
+Very effective though."
+
+
+Firecrackers
+
+Traditional firecrackers used during the festival.
+Claudia: "You throw them in the bonfire for protection - but who needs an excuse?"
+
+
+
+
+1 NODES REFERENCE TABLE
+
+Non-player character Playable Character Character captured Dead character
+
+Active Mission
+
+Location
+
+Location with undiscovered item or unsolved mystery
+
+Missing Item
+
+Central Node: shows active Missions list
+
+
+
+Recently added or updated Node
+
+Recenter
+
+9 Start Tutorial & Change Tab

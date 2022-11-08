@@ -8,9 +8,10 @@ website:
     left:
       - href: clues.qmd
         text: Clues
-      - town_quest.qmd
-      - href: anita.qmd
-        text: Anita
+      - contribute.qmd
+      # - town_quest.qmd
+      # - href: anita.qmd
+      #   text: Anita
 
 format:
   html:
