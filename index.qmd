@@ -1,8 +1,11 @@
 ---
 title: "Saturnalia guide"
-format: html
+format:
+  html:
+    include-in-header: 
+      - google.html
 ---
-<meta name="google-site-verification" content="NfeXh1Sv0spPREjPxnt8bm_JT5dgRL_PkIEnyVXsLsk" />
+Hello, welcome to a WIP Saturnalia video game guide. 
 Hello, welcome to a WIP Saturnalia (the video game) guide. 
 
 Currently, the only feature is a clue map, you can navigate there using the top menu.
