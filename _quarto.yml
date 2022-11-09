@@ -4,6 +4,8 @@ project:
 
 website:
   title: "Saturnalia guide"
+  site-url: 'https://hato1.github.io/Saturnalia-guidebook'
+  site-path: '/'
   navbar:
     pinned: true
     background: "#130307"
