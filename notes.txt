@@ -1,0 +1,61 @@
+Goto the church
+Goto the villa
+Find Anita's map in paul's room (Actually you must find Paul's note)
+Goto the mine entrance and talk to paul.
+Pick up the mine map and compass at the mine entrance, behind the noticeboard
+Goto the Church and interact with the gate to the belltower (by the altar). Scripted encounter.
+Goto the mine entrance and talk to paul to begin flashback
+Grab the records from the file canbinet on the second floor
+Try to leave, then find out what's happening outside by taking a photo from the second floor balcony (There are two balconies, only one works)
+
+
+Find the street corner, identifiable by a van emitting a blue glow. Take the emergency hammer from the van.
+
+
+Goto the town hall, break in with the hammer.
+Pick up the Dam Key from Lost and Found on the second floor.
+Goto the Dam, switch the power
+
+Goto Gravoi Pharmacy and pick up the Naloxone
+
+Goto the hardware store and pick up the bolt cutters
+
+Goto the mine workshop and pick up the small wrench (Scripted encounter?)
+
+Goto the mine electrical room and pick up the soldering iron
+
+Talk to Claudia in the bar.
+Find Claudia's father walking the streets and chase him back to his home, opposite the workshop. Knock on the door.
+Hide nearby, such as in the workshop and Gabriele will leave the house, quickly sneak in the open door, go upstairs and inspect the Mara's Diary underneath Gabriele's bed (Not Claudia's). You'll remark that claudia needs to see this.
+Claudia will now be in the bar bathroom, talk to her to begin her flashback
+
+
+Coin changer outside school gives infinite money
+
+At mines entrance, interact with the torn well with the wire cutters, an item drops below
+
+Go up side of church and speak to Damiano
+Enter the church via the crypt in the caves, sneak behind damiano into the base of the belltower and ring the bells.
+Go see Damiano (Either affixed to the shrine, or dead in the nest)
+* Anita Complete *
+
+Answer phone ringing at the villa, it's Tecla
+Find Tecla's home
+Talk to her, she'll give you her pendant
+Goto the creature's nest underground, scripted encounter en-route?.
+Nest can't be entered without a death.
+Get the marching pendant from the nest
+Talk to Tecla
+Pick up basement key
+* Tecla Complete *
+
+
+Open Umberto's locker
+Search for secret room in castle library, you should be prompted to get the architectural plans after checking every spot
+get the plans from the town hall
+View the plans on the school projector
+Enter secret room in castle library behind mural (requires miniature mask?)
+
+
+
+Wake up sergio with naxilone to begin Sergio backstory
