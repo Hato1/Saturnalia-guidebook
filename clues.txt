@@ -144,7 +144,7 @@ Sergio: "I think... this Nuragic-era well might be connected to the castle dunge
 
 Accabadora's Hammer
 A traditional tool to end suffering of the sick.
-Tecla: "Eliana had the most thankless job. Ostracized and harrassed."
+Tecla: "Eliana had the most thankless job. Ostracized and harassed."
 
 
 Medical Crutch
@@ -242,7 +242,7 @@ Sergio: "He loves me, in his own Way. But I can never truly forgive him."
 
 
 Airfare Bill
-Receipt for a a one-way flight to Manchester.
+Receipt for a one-way flight to Manchester.
 Sergio: "Decades ago, When we got caught, Bruno paid for me to leave, For good."
 
 
@@ -278,8 +278,7 @@ Claudia: "My aunt used the chain from her own dress to... to..."
 
 The Villa
 Owned by Tecla Murgia and now a bed-and-breakfast.
-Anita:
-I moved in here a year ago to research the mines' exploitability."
+Anita: "I moved in here a year ago to research the mines' exploitability."
 
 
 Murgia's Sisters
@@ -483,7 +482,7 @@ Tecla: "The church was damaged and the crypt flooded in the old dam collapse."
 
 
 Street Corner
-A road with a parked van and a a public phone.
+A road with a parked van and a public phone.
 Anita: "A plumber parked his Van here. I bet it's full of good tools."
 
 
@@ -513,7 +512,7 @@ Paul: "Sent to my parents - my adoptive parents. Tecla doesn't Know Who I am!"
 
 
 Paul's Camera
-An instant camera with a a powerful flash.
+An instant camera with a powerful flash.
 Paul: "I think it Saved me from that creature!"
 
 
@@ -539,12 +538,12 @@ Paul: "I was just borrowing those! I needed them for something."
 
 Anita's Ultrasound
 Ultrasound of Anita and Damiano's son.
-Anita: "A boy! But Damiano wants What a me to get an abortion... What a hypocrite."
+Anita: "A boy! But Damiano wants me to get an abortion... What a hypocrite."
 
 
 Paul's Note
 I took your map to explore the mine while the others are busy with the festival. Sorry! Paul.
-Anita: "Those tunnels are map. He dangerous, even with a shouldn't be there."
+Anita: "Those tunnels are dangerous, even with a map. He shouldn't be there."
 
 
 Church Crypts
@@ -558,7 +557,7 @@ Claudia: "It's right in front of our place, How cool! The owner is a loony."
 
 
 Tecla's House
-Situated near an overpass and a a votive shrine.
+Situated near an overpass and a votive shrine.
 Tecla: "I'll leave the light on. Tap on the window if you need me."
 
 
@@ -608,7 +607,7 @@ Paul: "I think it's a Berber alphabet? I wish I knew it!"
 
 
 Police Report
-Report on a a fire that destroyed the bakery in 1957. Includes the bakery's phone number.
+Report on a fire that destroyed the bakery in 1957. Includes the bakery's phone number.
 Claudia: "I wonder if the phone line still Works."
 
 
@@ -624,7 +623,7 @@ Tecla: "They finally started the restorations after the old dam collapse."
 
 Lover's Lane
 A path behind the bar leading to the castle.
-Sergio: "These is Where we used to to to see the sun rise. It... gave us hope."
+Sergio: "This is where we used to to to see the sun rise. It... gave us hope."
 
 
 Anti-Flood System
