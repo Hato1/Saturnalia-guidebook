@@ -50,6 +50,8 @@ La Principessa Bar
 		broken mask
 
 Castle:
+	Main Entrance
+		Castle Tourist Sign
 	Bruno's Office
 		Planetarium
 		Tourist Telescope
@@ -58,6 +60,29 @@ Castle:
 		Romeo and Juliet
 		Ancient Rituals Book
 		Berbers Dictionary
+		Planimetry Slide
+
+	Top of castle
+		Crashed Airplane (Through left binoculars)
+
+	Old Gun (Bottom of well after drained)
+
+	Castle's Secret Chamber (Need miniature mask and planetary slide)
+		Threatening Letters
+		Geological risk map
+		Clue Board
+		Bruno's Body
+		Mine Infirmary Key
+
+Caffeteria (Mines)
+	Wedding Ring
+	Broken Propeller
+	Rupert Crowley (From broken propeller)
+
+Mine Infirmary
+	Infirmary Documents
+	Nurse Cap
+
 
 Castle Yard
 	Hole
@@ -65,11 +90,12 @@ Castle Yard
 
 Mines
 	Below CAstle
-		Draining Valve
+		Well draininage valve
 
 Claudia/Gariele's House
 	2nd floor:
 		Insect collection 2nd floor
+		Mara's Doll (Needs quest active)
 
 	Gabriele/Mari's bedroom:
 		Mara's belongings
@@ -90,6 +116,7 @@ Burned Bakery
 	1st floor
 		Bakery Photo Slide
 		Gas Pipe Valve
+		broken phone (Try calling it)
 
 Hardware Store
 	Bolt Cutters
@@ -99,6 +126,7 @@ Street Corner (Place with blue van)
 
 Mine Entrance:
 	Mine Map & Compass
+	Lockers instructions
 	Up the hill a bit:
 		Protest Poster
 		Torn Well
@@ -106,6 +134,8 @@ Mine Entrance:
 Church
 	Left side entrance
 		Church's Scaffolding
+		Scaffolding Sign
+	Mirai's family photo (Must be anita)
 
 Town Hall
 	Upstairs:
@@ -138,6 +168,7 @@ Pharmacy
 Umberto's House
 	Ground floor:
 		Airfare Bill
+		Elegant Coat (Must be sergio?)
 	2nd floor
 		Morphine Bottle
 
@@ -156,11 +187,39 @@ Hunters House (Near Pharmacy)
 
 Tecla's House
 	Tecla is in the lit window
-	Tecla's Pendant (Given by T)ecla
+	Tecla's Pendant (Given by Tecla)
+	Basement Key
+	System Safeguard
+
+hidden room (villa)
+	Ceiling Hole
+
+The old dam
+	Anti-flood system
+	System safeguard
+
+
+Secret villa room
+	Accabadora's Hammer
+	Medical Crutch
+	Revolver Holster
+	Eliana's Drawing
+
+
+Church Crypt
+	Bruno's Empty Tomb
+
 
 Ancient Tree
 	Memorial Plaque (scraper)
 	Broken Chain
+	Brass Bell
+
+Creature's Nest
+	Eliana's Pendant
+	Eliana Murgia (via pendant)
+	Escape Plan (Needs quest)
+
 
 Mine electrical room
 	Soldering Iron
@@ -173,4 +232,9 @@ Gravoi School
 		Saturnalia Projection
 		Slide Projector
 		Paul's Family / bakery slide(???)
+	Archive room
+		Mara's school report (Must be Anita)
 
+
+St Lucia Square
+	The Altar

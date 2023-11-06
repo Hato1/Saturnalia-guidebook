@@ -15,9 +15,26 @@ Church
 Tecla's house (You can't enter, only speak through the window)
 	Eliana Murgia
 	Tecla's Pendant
+	Police Report
+
+Hunter's House
+	Marriage Dress
+	Tourist Pamphlet (Inspect as Claudia)
+	Mara's Suicide letter (In safe, need tourist pamphlet for combo)
+
 
 Creature's Nest (Requires a death)
 	Eliana's pendant
+
+Burned Bakery
+	Broken Oil Lamp
+
+Umberto's house outside
+	Stained Hankerchief
+
+Umberto's House (where?)
+	Third floor
+
 
 Sergio backstory
 	Sergio Aulas
@@ -155,7 +172,21 @@ Gravoi School
 	Saturnalia projection
 
 
+Mine Entrance (just inside)
+	Leone's Mine Badge
+	Picture of a woman (Leone's locker)
+	Miner's Lockers
+	Bruno's Note (Umberto's locker)
+	Miniature Mask (Umberto's Mask)
 
+Mine Monorail station
+	Monorail control panel
+
+Dam
+	Dam system
+
+Mine workshop
+	Wrench
 
 Castle Yard
 	Old Gun (Requires you drained the water at the same spot in the caves.)
@@ -167,6 +198,16 @@ La Principessa Bar
 Lovers Lane (Out the back of the bar, route to the castle)
 	Broken Mask
 	Drywall Spatula
+
+Mail Office (Mines)
+	Resignation Letter
+	Letter to the Mayor
+
+Bruno's office (secret room)
+	University Brochure
+	Perpetrual Calendar
+	Umberto's Letter
+
 
 Bruno's Office
 	Anique Planetarium
