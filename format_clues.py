@@ -12,9 +12,14 @@ with open("clues.txt") as f:
         clue = clue.split("\n")
         clue[0] = "<b>" + clue[0] + "</b>"
 
+        quoter = clue[-2].split()[0]
+        print(quoter)
+        print(quoter == "Location:")
+
         quoter = clue[-1].split()[0]
         if quoter[-1] == ":":
-            quote = open("message_box.html").read()
-            quote = quote.replace("PICTURE_HERE", f"/pfp/{quoter}.png")
-            print(quote)
-            clue.append(quote)
+            if quoter != "Location:":
+                quote = open("message_box.html").read()
+                quote = quote.replace("PICTURE_HERE", f"/pfp/{quoter}.png")
+                # print(quote)
+                clue.append(quote)

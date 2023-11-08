@@ -5,9 +5,12 @@ description = ""
 authors = ["Jacob Rogers <jacob.p.r@hotmail.com>"]
 
 [tool.poetry.dependencies]
-python = "^3.10"
-jupyter = "^1.0.0"
-ipyleaflet = "^0.17.2"
+python = "~3.11"
+jupyter = "1.0.0"
+ipyleaflet = "0.17.2"
+ipywidgets = "^8.1.1"
+pandas = "^2.1.2"
+jupyterlab = "^4.0.8"
 
 [tool.poetry.dev-dependencies]
 
