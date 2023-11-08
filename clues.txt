@@ -1,764 +1,917 @@
-Castle Tourist Sign 
+Castle Tourist Sign
 An alternate entry to the castle through the bar.
+location: Just outside the entrance gate to the castle.
 Sergio: "According to local lore, this is how paramours snuck into the castle.."
 
 
 Castle Entrance
 The main gate closes automatically every night.
+Location: There's a back entrance behind the bar.
 Sergio: "Bruno would always remind me to use the path around the village..."
 
 
 Bruno's Office
 An office near the museum of Sardinian folklore.
+Location: In the castle, up the stairs from the side entrance.
 Sergio: "Must have been locked up When the castle became a tourist attraction."
 
 
 Perpetual Calendar
 Set to December 21st, 1959.
+Location: Bruno's office.
 Sergio: "Very cumbersome. Bruno Kept it on his desk."
 
 
 Umberto's Letter 
 To Bruno: "I know how important it was that Sergio get your package. It was sent. Leave him alone."
+Location: Burno's office back room.
 Sergio: "What? What package? I never received anything!"
 
 
 Bruno's Note
 "Tecla, Izem, and will end the curse. If we fail, finish our work in the castle's secret chamber."
+Location: Umberto's mine locker.
 Sergio: "A secret chamber... In the castle's library, I would imagine."
 
 
 Stained Handkerchief
 Blood-stained handkerchief, a sign of silicosis.
+Location: Outside Umberto's house.
 Sergio: "My father coughs up blood... The iron lung helps him breathe."
 
 
 Wedding Ring
 A date is engraved: October 3, 1969.
+Location: Caffeteria in the Mines.
 Claudia: "Mom must have tossed it in the well for good luck, Hope she's happier."
 
 
 Mirai Children Photograph
 Framed picture of Tecla and the Mirai children.
+Location: Claudia's house.
 Tecla: "Once I tried to warn the parents, they cut ties with me completely."
 
 
 Naloxone
 Inhibits the effects of opioids such as morphine.
+Location: Pharmacy.
 Sergio: "That sure Woke me up. The headache unfortunately remains."
 
 
 Gravoi's Pharmacy
 The pharmacy store is closed at night.
+Location: Use town map, requires glass hammer.
 Sergio: "They have everything my father needs, Lucky break in a town like this."
 
 
 Mara's School Report
 Her grades declined sharply in 1964.
+Location: Gravoi school archive room (Must be Anita?).
 Claudia: "She was such a good student, Something definitely happened."
 
 
 Gravoi School
 Primary school for children up to age fifteen.
+Location: Use town map. Requires soldering iron.
 Claudia: "Proudly training future generations of bigots. Glad to be done with it."
 
 
 Slide Projector
 Displays documents archived in small slides.
+Location: Gravoi school.
 Claudia: "So technologically advanced. Maybe we'll get a Whole computer some day!"
 
 
 The Castle Yard
 Built around a well dating to roughly 3000 B.C.
+Location: Castle, through main entrance.
 Claudia: "Loved playing here as a kid... The ancient well is So Weirdly mysterious."
 
 
 Romeo and Juliet
 An Italian translation of Shakespeare's play.
+Location: Castle library.
 Paul: "Old bill's idea of Italy Was odd. But, uh... reality does surpass it."
 
 
 Castle Library
 Where Bruno Bissani conducted his studies.
+Location: Castle, on the same staircase as the mine entrance.
 Sergio: "This is where Bruno and I fell in love."
 
 
 Castle's Secret Chamber
 Bruno's compatriots met here to end the ritual.
+Location: Castle library. Requires viewing planimetry slide in a slide projector.
 Sergio: "It's hidden behind the bas-relief in the library!"
 
 
 Mouth of Truth
 Stick your hand in to discover the truth.
+Location: Town
 
 
 Bruno's Empty Tomb
 One tomb in a crypt of Bissani family sarcophagi.
+Location: Church crypt.
 Sergio: "Maybe his wife had him declared dead in absentia, So she could inherit."
 
 
 Umberto's House
 Sergio used to live here with his father.
+Location: TODO. Requires boltcutter?
 Sergio: "I..couldn't let him die alone. I had to come back."
 
 
 Threatening Graffiti
 Written in Sardinian, to someone named "Bissani."
+Location: Town.
 Anita: ""Bissani, go f- a swine". Classy."
 
 
 Insect Box
 Gabriele Mira's insect collection.
+Location: Claudia's house.
 Paul: "This guy. Such a sadistic way to have fun."
 
 
 Claudia's House
 Home of Gabriele and his daughter Claudia.
+Location: Opposite the workshop. Hide and wait for Gabriele (guy with the blue lantern) to leave the door open.
 Claudia: "When my aunt got married, I inherited her room."
 
 
 Psychology Essay
 "Deep in the Unconscious," by Dr. E. Zacchi: "Repressed traumas are sometimes revisited in dreams."
+Location: Gravoi pharmacy.
 Anita: "Some nightmares have their origins in waking life. Maybe most of them."
 
 
 La Principessa Bar
 Gabriele Mirai's bar and restaurant in Gravoi.
+Location: Use town map.
 Claudia: "My father wants me to Work there, I Want to throw up."
 
 
 Marriage Invite
 A public invitation to Mara Mirai's wedding.
+Location: Notice board. Requires drywall spatula and Claudia?
 Claudia: "The party was at her husband's house, near the pharmacy."
 
 
 Book on Saint Lucia
 An illustrated book. In regional Italian tradition, the martyr brings gifts to good children.
+Location: Gravoi school.
 Paul: ""...As long as you behave and don't look at her." Creepy."
 
 
 Well Drainage Valve
 A hydraulic system to drain the well's chamber.
+Location: Below Castle yard. Requires wrench. (Claudia can slip through the bars)
 Sergio: "I think... this Nuragic-era well might be connected to the castle dungeon?"
 
 
 Accabadora's Hammer
 A traditional tool to end suffering of the sick.
-Tecla: "Eliana had the most thankless job. Ostracized and harassed."
+Location: Hidden room (villa).
+Tecla: "Eliana had the most thankless job. Ostracized and harrassed."
 
 
 Medical Crutch
 One of a pair of very old walking crutches.
+Location: Hidden room (villa).
 Tecla: "He couldn't Walk for months. He must have felt like a prisoner."
 
 
 Mine Infirmary Key
 Its lanyard is snapped and the metal is rusty.
+Location: Castle's secret chamber.
 
 
 Statue of Melano Bissani
 Saved Gravoi from the corsairs in 1550 A.D.
+Location: Town.
 Sergio: "Fascinating and surreal that Bruno's family owned this whole castle."
 
 
 University Brochure
 Literature about an expensive private university in Manchester.
+Location: Bruno's office (Requires wrench).
 Sergio: "My alma mater-Bruno chose it and paid in advance. I didn't want to go."
 
 
 Morphine Prescription
 Palliative treatment for Sergio's father's silicosis.
+Location: Pharmacy.
 Sergio: "He has to stay in the iron lung most days, So I pick up his medicine."
 
 
 Elegant Coat
 Elegant tartan coat embroidered with "Your Bruno."
+Location: Umberto's house.
 Sergio: "A parting gift from Bruno, It's identical to the one he always Wore."
 
 
 Coin Changer
 Will sound an alarm if tampered with.
+Location: Next to Gravoi school.
 Claudia: "I've broken it open before using a small Wrench."
 
 
 Pasta Necklace
 A handicraft made by schoolchildren as a gift.
+Location: Claudia's house.
 Claudia: "I made this for my aunt - and one for her boyfriend. Come on, I Was four!"
 
 
 Mara's Diary
 Mara Mirai, age 16: "I dreamed about the Ammutadore again. He lies on my chest and steals my doll." 
+Location: Claudia's house.
 Tecla: "Her parents didn't listen to her. Then the nightmares began..."
 
 
 Ammutadore Statue
 The monster from Sardinian folklore.
+Location: La Principessa Bar.
 Tecla: "The ammutadore... It sits on your chest While you sleep."
 
 
 Mara's Suicide Letter
 "Dad, you know why: your son's voice, his hands, his terrible eyes. prefer to close mine forever."
+Location: Safe in Hunter's house. Tourist pamphlet has combo.
 Claudia: "I Knew it! That disgusting pig... Piece of shit, I'll never forgive you."
 
 
 Hunter's House
 Full of stuffed animals. Abandoned and vandalized.
+Location: Outside Pharmacy, up some stairs.
 Claudia: "It's right by the pharmacy. Creepy place, but some fond memories too."
 
 
 Rental Notice
 An ad for the rooms being rented in the villa. Includes Tecla's phone number and photo.
+Location: Villa.
 Tecla: "I had the villa renovated in 1960. It had been abandoned since 1929."
 
 
 Hidden Room
 Nature has reclaimed this sealed-off room.
+Location: Accesss via Anita's room in the Villa. Requires drywall spatula and Ceiling hole.
 Tecla: "Eliana's room. She Was an accabadora... She ended people's suffering."
 
 
 Eliana's Drawing
 A handsome man sleeping. The caption reads: "R.C. When will you wake up?' 
+Location: Hidden room (villa).
 Tecla: "You can tell how infatuated she Was..."
 
 
 Escape Plan
 Pilot Rupert Crawley's 1929 flight book...with plans to escape through a hole in the floor?
+Location: Creature's nest. Requires quest.
 Tecla: "He Was afraid. We didn't speak his language, nor he ours."
 
 
 Morphine Bottle
 In liquid form for ingestion. Half empty.
+Location: Umberto's house.
 Sergio: "I'm not proud of using this stuff to relax, but... life's hard. Sue me."
 
 
 Satellite Phone
 Can be used anywhere it receives a signal.
+Location: Unlock Sergio.
 Sergio: "It needs signal to work-a bigger limitation than the salesman implied."
 
 
 Umberto Aulas
 Sergio's father. One of the old miners of Gravoi.
+Location: Umberto's house.
 Sergio: "He loves me, in his own Way. But I can never truly forgive him."
 
 
 Airfare Bill
-Receipt for a one-way flight to Manchester.
+Receipt for a a one-way flight to Manchester.
+Location: Umberto's house.
 Sergio: "Decades ago, When we got caught, Bruno paid for me to leave, For good."
 
 
 Gabriele Mirai
 Bar owner. Claudia's father and Mara's brother.
+Location: Wanders the streets with a blue lantern.
 Claudia: "I hate his guts. Of course Mom left him. Wish she'd taken me."
 
 
 Ritual Mask
 Eyeless mask used during the celebrations.
+Location: Unlock Claudia.
 Claudia: "The idea is you Wear it to avoid looking at Saint Lucia, Gimme a break."
 
 
 Tourist Pamphlet
 Guides to Sardinian attractions, including the sea town of Carlo Forte.
+Location: Hunter's house. Requires Claudia?
 Claudia: "Mara and her boyfriend brought me along in 1978, When they got engaged."
 
 
 Marriage Dress
 Old and dusty. The style is traditional Sardinian.
+Location: Hunter's house.
 Sergio: "Beautiful, but the whole chain imagery is a bit much."
 
 
 Memorial Plaque
 Reminding the village of Mara's suicide in 1980.
+Location: Ancient Tree. Requires drywall spatula.
 Tecla: "Her poor husband... They wouldn't even let him grieve."
 
 
 Broken Chain
 From a traditional Sardinian wedding dress.
+Location: Ancient Tree.
 Claudia: "My aunt used the chain from her own dress to... to..."
 
 
 The Villa
 Owned by Tecla Murgia and now a bed-and-breakfast.
-Anita: "I moved in here a year ago to research the mines' exploitability."
+Location: Use Anita's power. Also on town map?
+Anita: I moved in here a year ago to research the mines' exploitability."
 
 
-Murgia's Sisters
+Murgia Sisters
 Eliana and Tecla Murgia, photographed in 1929.
+Location: Villa.
 Tecla: "Eliana would have done anything to provide for us. It Wasn't easy."
 
 
 Revolver Holster
 Old and worn, engraved with the initials "R.C."
+Location: Hidden room.
 Anita: "The holster for this Was in the villa, Does it mean Tecla...?"
 
 
 Crashed Airplane
 An RAF Bristol F.2 fighter plane.
+Location: Top of the castle, use the left binoculars.
 Tecla: "Villagers wanted to hide any trace of the crash. Hiding is What we do."
 
 
 Broken Propeller
 From a 1920s RAF fighter, marked "Rupert Crowley."
+Location: Mine caffeteria.
 Tecla: "Eliana Was supposed to "take care" of Rupert, the surviving pilot."
 
 
 Rupert Crowley
 An RAF reconnaissance pilot in the 1920s.
+Location: Given alongside broken propeller.
 Tecla: "My sister was supposed to yet rid of him, not to fall in love."
 
 
 Sergio Aulas
 Returned from the UK to care for his dying father.
+Location: Villa.
 Paul: "We're good friends. He crashes at the villa all the time."
 
 
 Bruno Bissani
 Bruno Bissani. Lord of Gravoi's castle.
+Location: Unlocked via Sergio's quest.
 Sergio: "What he meant to me... but I Was too young. Shouldn't have been with him."
 
 
 Claudia Mirai
 Gabriel's daughter, fresh out of high school.
+Location: La Principessa Bar. Unlock her by looking in Gabriele's bedroom in Claudia's house.
 Sergio: "Obviously the coolest kid in this godforsaken village."
 
 
 Mara Mirai
 Gabriele's sister and Claudia's aunt.
+Location: Unlock Claudia.
 Claudia: "When I Was seven I found her by the olive tree in the Nuragic area..."
 
 
 Mirai's Family Photo
 Mara's family at her Catholic confirmation.
+Location: Church.
 Tecla: "Her brother Gabriele has always been a creep."
 
 
 Mara's Doll
 A well-worn and well-loved children's doll.
+Location: Claudia's house. Requires Claudia quest.
 Anita: "Mara's doll. Stolen by the ammutadore?"
 
 
 Ancient Tree
 An olive tree said to be thousands of years old.
+Location: In ruins nearish castle entrance. Makes spooky sounds.
 Claudia: "My aunt hanged herself from this cursed tree."
 
 
 Brass Bell
 Very small, but very loud. A local staple.
+Location: Ancient tree.
 Sergio: "Ringing this will attract that creature. No question."
 
 
 Villa Basement
 Locked off by the owner.
+Location: Villa. Requires basement key (gotten through Tecla's quest).
 Claudia: "Strange... If you look at the villa from the outside... Maybe I'm crazy...?"
 
 
 Ceiling Hole
 It reveals the inside of a room over the basement.
+Location: Villa basement.
 Tecla: "Nothing Worth seeing in there, Just old, painful memories."
 
 
 Old Gun
 Rusty and unusable. Engraved with initials "R.C."
+Location: Castle yard. Requires you drained the water first.
 Sergio: "I'm no expert, but I'd Wager this is the gun that killed Bruno."
 
 
 Nurse Cap
 Worn by Italian military nurses in World War II.
+Location: Mine infirmary.
 Tecla: "I left to help forget, and for the war effort. but I had to come back."
 
 
 Infirmary Documents
 Tecla Murgia served as the nurse in the mines from 1946 to 1960.
+Location: Mine infirmary.
 Tecla: "After the War, I came back and used the skills I learned in the field."
 
 
 Basement Key
 Grants access to the ground floor of the villa.
+Location: Tecla's house (requires Tecla quest).
 Anita: "I always Wondered What's behind that door!"
 
 
 Tecla Murgia
 Owner of the villa. Landlord to Anita and Paul.
+Location: Tecla's house. Speak with her through her window, she leaves the light on. Use Anita's power to locate her if you've walked past her before, even if you weren't aware of it.
 Anita: "Typical village old lady - full of secrets. Rent is cheap, though."
 
 
 Inside your own mind!
-If you don't have this, you're out of it.
+Both the prisoner and the guard, but you keep misplacing the key.
 
 
 Leone
 Worked the mines; tried to unionize his comrades.
+Location: Acquired alongside Protest Poster.
 Paul: "Did he turn into... that creature? It's horrible."
 
 
 Threatening Letters
 "Go back to Africa!" "We don't need your commie advice." "Keep an eye on your family..."
+Location: Castle's secret chamber
 Tecla: "Written in Sardininan, Definitely someone from the village."
 
 
 Protest Poster
 Protect your job, fight for your rights!
+Location: The mine's entrance, up the hill by the town well.
 Paul: "Looks like material on Workers rights Was eventually banned."
 
 
 Tower Bells
 Loud noises, like church bells, lure the creature.
+Location: Church.
 Anita: "The bells always make me think of him, They ...mean
 something else now."
 
 
 Bell Tower
 Operated by the church's sacristan, Damiano Orsi.
+Location: Church, enter via the scaffolding. Requires bolt cutter.
 Anita: "His quarters are under the tower. That's Where we, well..."
 
 
 Scaffolding Sign
 No unauthorized access. Alarmed at night.
+Location: Church.
 Tecla: "Very loud. It attracts unwanted attention unless powered off."
 
 
 Letter to the Mayor
 Mussolini's letter to the mayor of Gravoi, asking for help finding a missing British plane.
+Location: Vault in the mines (Below castle).
 Tecla: "You can see the plane that pig Wanted to find from the castle's wall."
 
 
 Castle Planimetry
 Detailed diagram of the top floor of Gravoi's castle.
+Location: The town hall (Requires Sergio quest after looking for secret room in castle library).
 Sergio: "This "F" room is unlabeled. It's located behind the bas-relief panel..."
 
 
 Nurse Photo
 Tecla in her World War II military nurse attire.
+Location: Villa.
 Tecla: "No one Wanted to help me find my sister who disappeared, So I left."
 
 
 Broken Mask
 Eyeless, with the surname "Murgia" inscribed.
+Location: Lovers Lane.
 Tecla: "The mask my sister Was Wearing When she disappeared sixty years ago."
 
 
 Eliana's Pendant
 Identical to Tecla's pendant.
+Location: Creature's nest.
 Tecla: "When the curse was passed on, she became... nourishment? I'm So stupid!"
 
 
 Eliana Murgia
 Tecla's sister, long since vanished.
+Location: Aquired through Tecla's quest.
 Tecla: "Eliana took care of me after our parents died in the dam collapse."
 
 
 Paul Izem
 Photojournalist in search of his birth parents.
+Location: Acquired through Paul's note.
 Anita: "He said he's in town to do reporting for a travel magazine. Unlikely."
 
 
 Idir Izem
 Paul's father. All trace disappeared 30 years ago.
+Location: Acquired when unlocking Paul.
 Paul: "I don't Know why, but... I could never believe he abandoned me."
 
 
 Anita Giannini
 A geologist assaying viability of Gravoi's mines.
+Location: Yes.
 Paul: "Smart, kind, and patient. Dunno why she gives Damiano the time of day."
 
 
 Damiano Orsi
 The sacristan of the church-and Anita's paramour.
+Location: Yes.
 Anita: "I love him. He's married, and he doesn't want this Kid, but I do."
 
 
 Damiano's Drawing
 A violent scene drawn on the wall with crayons.
+Location: Gravoi school.
 Anita: "Could my Damiano have drawn this as a kid?"
 
 
 The Church
 Built in the Middle Ages. Heavily damaged in 1927.
+Location: Use town map.
 Anita: "I'm usually not a practicing Catholic, but for Damiano..."
 
 
 Church's Scaffolding
 The stairs are locked and outfitted with an alarm.
+Location: Church, left of the entrance through the broken bars.
 Tecla: "The church was damaged and the crypt flooded in the old dam collapse."
 
 
 Street Corner
-A road with a parked van and a public phone.
+A road with a parked van and a a public phone.
+Location: Town. There's a glowing blue van. Use Anita's power to locate this place if you've been here before.
 Anita: "A plumber parked his Van here. I bet it's full of good tools."
 
 
 Dam Key
 A key to access the controls in the dam shed.
+Location: Lost & Found box in the town hall. Requires Dam note.
 Claudia: "I think I might have stolen these as a prank once, But Who Knows?"
 
 
 The Town Hall
 The municipal offices of the town of Gravoi.
+Location: Use town map. Requires glass hammer.
 Paul: "This Would be Where they'd keep records of my father's life in Gravoi!"
 
 
 St. Lucia Procession
 A statue of Saint Lucia is carried by the crowd.
+Location: Acquired when unlocking Paul.
 Paul: "Ah -they built the altar from the platform that was carrying the statue!"
 
 
 Leone's Mine Badge
 Inadvertently torn off while leaving the well.
+Location: Mine entrance. Use bolt cutters on torn well, then find this in the locker room.
 Anita: "Leone... I saw this name on one of the miner lockers,"
 
 
 Adoption Note
 From Tecla: "In the name of the Blessed Virgin, never let Paul return here."
+Location: Acquired when unlocking Paul (Town hall).
 Paul: "Sent to my parents - my adoptive parents. Tecla doesn't Know Who I am!"
 
 
 Paul's Camera
-An instant camera with a powerful flash.
+An instant camera with a a powerful flash.
+Location: Acquired when unlocking Paul.
 Paul: "I think it Saved me from that creature!"
 
 
 The Creature
 A creature emerging from the well above the mines.
+Location: Acquired when meeting Paul at the mine entrance.
 Paul: "I think the camera flash Scared it away!"
 
 
 Residency Permit
 Residency permit for working inside the mine. Issued to a man named Idir Izem.
+Location: Acquired when unlocking Paul (Town hall).
 Paul: "That's my father! Finally, proof he was here in Gravoi!"
 
 
 Farida Izem
 Joined her spouse Idir Izem from Morocco in 1955.
+Location: Acquired when unlocking Paul.
 Paul: "I never even had a picture of her growing up..."
 
 
 Mine Map & Compass
 Used by Anita to navigate Gravoi's mines.
+Location: Mine entrance, on ground outside behind noticeboard.
 Paul: "I was just borrowing those! I needed them for something."
 
 
 Anita's Ultrasound
 Ultrasound of Anita and Damiano's son.
-Anita: "A boy! But Damiano wants me to get an abortion... What a hypocrite."
+Location: Yes.
+Anita: "A boy! But Damiano wants What a me to get an abortion... What a hypocrite."
 
 
 Paul's Note
 I took your map to explore the mine while the others are busy with the festival. Sorry! Paul.
-Anita: "Those tunnels are dangerous, even with a map. He shouldn't be there."
+Location: Villa.
+Anita: "Those tunnels are map. He dangerous, even with a shouldn't be there."
 
 
 Church Crypts
 Crypts flooded when the old dam collapsed in 1927.
+Location: Below Church. Access via mines.
 Claudia: "Full of skulls and skeletons. I love it! Closed now, though."
 
 
 Hardware Store
 Useful tools at affordable prices.
+Location: Use town map.
 Claudia: "It's right in front of our place, How cool! The owner is a loony."
 
 
 Tecla's House
-Situated near an overpass and a votive shrine.
+Situated near an overpass and a a votive shrine.
+Location: Town. House with the light left on. Use Anita's power to get here if you can't find it.
 Tecla: "I'll leave the light on. Tap on the window if you need me."
 
 
 Geological Risk Map
 The dam puts pressure on the mine walls.
+Location: Castle's secret chamber.
 Anita: "If there Were a structural failure here...the mine would flood instantly."
 
 
 St. Lucia's Shrine
 A statue of Christian martyr Saint Lucia.
+Location: Streets.
 Paul: "So revolutionary in her own time. So traditional in ours."
 
 
 Torn Well
 The mangled grate has torn a scrap from its owner.
+Location: Mine entrance. Outside, up the hill a bit.
 Paul: "Bolt cutters would make quick work of this - that scrap would fall down."
 
 
 Saturnalia Projection
 19th-century art depicting an ancient Roman ritual.
+Location: Gravoi school.
 Anita: "Ancient Romans celebrated With sacrifices to the temple of Saturn."
 
 
 Berber Translation
 The Berber alphabet writing transliterates to "Izem," which means "lion." Or in Italian, "Leone"!
+Location: Castle Library.
 Paul: "So... They called my father Leone, as a translation of our Surname!"
 
 
 Gravoi Miners in 1956
 Two photos of the mining crew. Someone's missing..
+Location: TODO.
 Paul: "They cut my father out of the official picture! but Why?"
 
 
 Resignation Letter
 Idir Izem resigned from the miners as of December 22, 1957. Accepted by Umberto Aulas.
+Location: Vault in the mines (Below castle).
 Sergio: "Dad was Paul's father's boss! He accepted the resignation himself."
 
 
 Picture of a Woman
 Before the bakery fire. Found in Leone's locker.
+Location: Leone's mine locker. Requires bolt cutters.
 Paul: "So this is my mom... She seems so proud and serene."
 
 
 Fused Bracelet
 Of a Moroccan style, with an inscription inside.
+Location: Burned bakery, second floor.
 Paul: "I think it's a Berber alphabet? I wish I knew it!"
 
 
 Police Report
-Report on a fire that destroyed the bakery in 1957. Includes the bakery's phone number.
+Report on a a fire that destroyed the bakery in 1957. Includes the bakery's phone number.
+Location: Tecla's house. Requires quest.
 Claudia: "I wonder if the phone line still Works."
 
 
 Damiano's Research
-Detailed records of the rituals of Gravoi
+Detailed records of the rituals of Gravoi.
+Location: Church
 Anita: "I had no idea what this was all about, Until tonight.."
 
 
 Christian Magazine
 The latest issue of Sardegna Cristiana, December 1989.
+Location: Town.
 Tecla: "They finally started the restorations after the old dam collapse."
 
 
 Lover's Lane
 A path behind the bar leading to the castle.
-Sergio: "This is where we used to to to see the sun rise. It... gave us hope."
+Location: Behind the La Principessa Bar.
+Sergio: "These is Where we used to to to see the sun rise. It... gave us hope."
 
 
 Anti-Flood System
 Emergency sluices prevent uncontrolled flooding.
+Location: The old dam.
 Tecla: "When the old dam collapsed, those automatic Knife gates saved
 
 
 The Old Dam
 Gravoi's previous dam collapsed in 1927.
+Location: Access via hidden room in the villa.
 Tecla: "My father was the dam's guardian - he and my mother died saving the town."
 
 
 Antique Planetarium
 Shows the relative positions of Earth and Saturn.
+Location: Bruno's office (Castle).
 Claudia: "Every thirty years, the planets are at their closest points!"
 
 
 The Altar
 A pyre by a stone with carved animal heads.
+Location: St Lucia Square.
 Anita: "And... What looks like Vertical stretcher of some Kind."
 
 
 Ancient Rituals Book
 During an astral conjunction, a creature emerges from the underground tunnels beneath Gravoi.
+Location: Castle Library (Requires quest).
 Paul: "I Saw it! It came out of the well right above the mines!"
 
 
 Mine Infirmary
 Provided first aid to injured miners.
+Location: Mines, follow the signs or use Anita's map. Requires mine infirmary key.
 Tecla: "When I came back I needed job, and this is what I Knew how to do."
 
 
 Lockers Instructions
 "Lockers containing miners' personal belongings hang from the ceiling and are lowered when needed."
+Location: Mine entrance.
 Anita: "I can't believe they haven't assigned me one yet!"
 
 
 Clue Board
 Cross-reference solstice dates and disappearances.
+Location: Castle's secret chamber.
 Paul: "My father, Tecla, and Bruno - they Were trying to make sense of it all..."
 
 
 Mine Union Graffiti
 Vandalized. Wishes death on someone named Leone.
+Location: Town.
 Paul: "They truly hated him for.. What? Trying to yet a better contract?"
 
 
 Lost Keys Note
 From the guardian of the dam: "Keys lost! If found, bring to the lost and found in the Town Hall".
+Location: Dam.
 Tecla: "The new dam Was built to substitute the old one, collapsed in 1927."
 
 
 Paul's Family
 A family and their newborn in front of the bakery.
+Location: Burned Bakery (Bakery photo slide). Use in School projector.
 Paul: "It's my parents! So...they owned the bakery?"
 
 
 Gas Pipe Valve
 Undamaged metal pipe. In use since the 1950s.
+Location: Burned Bakery.
 Claudia: "Pretty lucky break that the fire didn't make these pipes explode!"
 
 
 Broken Oil Lamp
 Commonly used in the mines. Burned and ruined.
+Location: Burned bakery.
 Anita: "Was this used to start the fire in the bakery, maybe?"
 
 
 Mine Workshop
 Full of specialized tools used in the mine.
+Location: Mines. Follow signs, or use Anita's map.
 Anita: "There must be some useful stuff in there."
 
 
 System Safeguard
 Resets an anti-flood system and opens the sluices.
+Location: The old dam.
 Tecla: "This is what Bruno Was trying to do when we fought, When I shot him..."
 
 
 Mine Monorail Station
 Used to shuttle ore outside of Gravoi.
+Location: Mines. Follow signs or use Anita's map.
 
 
 Monorail Control Panel
 Its levers control the monorail carts.
+Location: Mine monorail station.
 Anita: "When they're in use, the monorail carts take ore across the dam bridge,"
 
 
 St. Lucia Square
 Prepared for some sort of sacrificial ritual.
+Location: Town. Where the sacrificial altar is.
 Anita: "Saint Lucia, the three animals... What do they mean?"
 
 
 Creature's Nest
 Corpses from various epochs adorn the stone altar.
+Location: Mines, in a natural cave-like area. Requires the creature to kill someone to access.
 Claudia: "So this is, like...the creature's fridge. Like, Where it keeps its food?"
 
 
 Miniature Mask
 A tiny wooden replica of the creature's mask.
+Location: Umberto's locker. Requires bolt cutters.
 Claudia: "Kind of scary and cute at the same time. I'd Wear it as a pin."
 
 
-Miners' Lockers
+Miner's Lockers
 A pulley-based system to hold miners' belongings.
+Location: Mine entrance.
 Paul: "Cool system! But I couldn't find my father's name on any of them."
 
 
 Mine Entrance
 Its tunnels date back to the third century B.C.
+Location: Use town map.
 
 
 Dam System
 Directs power either to the town or to the mine.
+Location: The dam.
 Anita: "A timed mechanism. No need to manually light the mines at night."
 
 
 The Dam
 Built in the 1930s to power the village and mines.
+Location: Use town map.
 Anita: "Is the dam bridge the only Way out of Gravoi?"
 
 
 Protest Posters
 A half-burnt box full of pro-union posters.
+Location: Burned Bakery.
 Paul: "Why were these in the bakery? Unless..."
 
 
 Burned Bakery
 Years ago, it was burned down and then condemned.
+Location: Town. Use Anita's power to locate if you've passed by before.
 Claudia: "This happened before I Was born, I heard someone died in the fire."
 
 
 Broken Phone
 The line is still on, but it sparks when it rings.
+Location: Burned bakery. Try calling it.
 Claudia: "Is this What started the fire..? Can't believe they never got rid of it."
 
 
 Mine Electrical Room
 Located under the castle. Under maintenance.
+Location: Mines, under the castle.
 Claudia: "I've seen operators bring some really cool tools in there."
