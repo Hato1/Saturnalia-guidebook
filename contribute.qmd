@@ -5,14 +5,11 @@ format: html
 
 Want to help improve this guide? I'd greatly appreciate it. You can submit issues & PR's on [GitHub](https://github.com/Hato1/Saturnalia-guidebook).
 
-If you're not familiar with GitHub, feel free to <a href = "mailto: jacob.p.r@hotmail.com">email</a> me or DM me from the official Discord.
+If you're not familiar with GitHub, feel free to DM me on the official Discord (@Hato1).
 
 
 For inspiration, here's what needs doing"
 <ul>
-  <li>Fill in the last 4 missing clues</li>
-  <li>Fix mistakes in [clue descriptions](https://github.com/Hato1/Saturnalia-guidebook/blob/master/clues.txt)</li>
-  <li>Create a list of locations for all clues</li>
   <li>Note pre-requisites for clues, for example 'must be playing as Claudia'</li>
   <li>Add images for all clues</li>
   <li>Add quest guides for the playable characters + tecla + town quest</li>
@@ -20,5 +17,5 @@ For inspiration, here's what needs doing"
   <li>Achievement guides</li>
   <li>Quest guides, for spoiler free hints at what to do next</li>
   <li>Characters page, listing lore and character abilities</li>
-  <li>Code cleanup. This is my first time using HTML, CSS, SCSS, Quarto and Leaflet. I know my code is full of bad practice.</li>
+  <li>Code review/cleanup. This is my first project using HTML, CSS, SCSS, Quarto and Leaflet. I know my code is full of bad practice.</li>
 </ul>
