@@ -11,13 +11,13 @@
     "href": "contribute.html",
     "title": "Contribute",
     "section": "",
-    "text": "Want to help improve this guide? I’d greatly appreciate it. You can submit issues & PR’s on GitHub.\nIf you’re not familiar with GitHub, feel free to email me or DM me from the official Discord.\nFor inspiration, here’s what needs doing”\n\n\nFill in the last 4 missing clues\n\n\nFix mistakes in clue descriptions\n\n\nCreate a list of locations for all clues\n\n\nNote pre-requisites for clues, for example ‘must be playing as Claudia’\n\n\nAdd images for all clues\n\n\nAdd quest guides for the playable characters + tecla + town quest\n\n\nEndgame scoreboard rules\n\n\nAchievement guides\n\n\nQuest guides, for spoiler free hints at what to do next\n\n\nCharacters page, listing lore and character abilities\n\n\nCode cleanup. This is my first time using HTML, CSS, SCSS, Quarto and Leaflet. I know my code is full of bad practice."
+    "text": "Want to help improve this guide? I’d greatly appreciate it. You can submit issues & PR’s on GitHub.\nIf you’re not familiar with GitHub, feel free to DM me on the official Discord (@Hato1).\nFor inspiration, here’s what needs doing”\n\n\nNote pre-requisites for clues, for example ‘must be playing as Claudia’\n\n\nAdd images for all clues\n\n\nAdd quest guides for the playable characters + tecla + town quest\n\n\nEndgame scoreboard rules\n\n\nAchievement guides\n\n\nQuest guides, for spoiler free hints at what to do next\n\n\nCharacters page, listing lore and character abilities\n\n\nCode review/cleanup. This is my first project using HTML, CSS, SCSS, Quarto and Leaflet. I know my code is full of bad practice."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Saturnalia guide",
     "section": "",
-    "text": "Hello, welcome to a WIP Saturnalia video game guide. Hello, welcome to a WIP Saturnalia (the video game) guide.\nCurrently, the only feature is a clue map, you can navigate there using the top menu."
+    "text": "Hello, welcome to a guide for Saturnalia by Santa Ragione.\nCurrently, the only feature is a clue map, you can navigate there using the top menu."
   }
 ]
